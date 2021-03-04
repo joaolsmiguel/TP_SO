@@ -1,0 +1,59 @@
+1
+Como se chama o Departamento de Informática no ISEC?
+DEIS
+DEI
+1
+
+2
+Como se chama a TUNA do ISEC?
+ISECOTUNA
+DESCONCERTUNA
+1
+
+3
+Quantas Licenciaturas existem no ISEC?
+14
+12
+2
+
+4
+Quantos Mestrados existem no ISEC?
+10
+12
+1
+
+5
+Quem é o Presidente do ISEC?
+Doutor Mário Velindro
+Doutor Miguel Velindro
+1
+
+6
+Quantos departamentos existem no ISEC?
+7
+6
+2
+
+7
+Quando foi fundado o ISEC?
+5 de dezembro de 1921
+5 de dezembro de 1931
+1
+
+8
+Quantos Institutos existem no IPC?
+8
+6
+2
+
+9
+Para que Unidade Curricular é este trabalho?
+Programação
+Sistemas Operativos
+2
+
+10
+Quantas ilhas tem os Açores?
+12
+9
+2
